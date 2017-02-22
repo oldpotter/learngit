@@ -3,4 +3,4 @@ Git is free software.（Git是免费软件）
 
 I learn Git.
 
-It's easy to learn.
+It's easy to learn.（简单）
