@@ -5,4 +5,4 @@ I learn Git.
 
 It's easy to learn.（Git学起来很简单）
 
-add on master
+it's ok
